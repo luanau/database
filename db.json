@@ -1,0 +1,14 @@
+{  
+   "checkouts":[  
+      {  
+         "directDebit":{  
+            "dayNo":null,
+            "accountName":null,
+            "accountNumber":null,
+            "sortCode1":null,
+            "sortCode2":null,
+            "sortCode3":null
+         }
+      }
+   ]
+}
